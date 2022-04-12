@@ -52,11 +52,9 @@ function renderRepos(repos) {
         console.log("repolist", repoList)
     })
 }    
-// 
+
 // before rendering repos in UL, make sure all repos cleared and then add new repos
 // userList.appendChild(li);
-
-
 
 
 document.addEventListener('DOMContentLoaded', init)
